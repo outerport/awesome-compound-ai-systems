@@ -30,6 +30,10 @@ arXiv 2024
 Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward, Steven Carr, Atlas Wang, Ufuk Topcu\
 MLSys 2024
 
+[Parrot: Efficient Serving of LLM-based Applications with Semantic Variable](https://arxiv.org/abs/2405.19888)\
+Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, Lili Qiu\
+OSDI 2024
+
 ### Scheduling and Orchestration
 
 [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://bingyangwu.github.io/publication/dlora/)\
