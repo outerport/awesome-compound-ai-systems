@@ -123,6 +123,10 @@ arXiv 2024
 
 ## Case Studies
 
+[Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)\
+Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang\
+arXiv 2024
+
 [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620)\
 Xinyi Hou, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang\
 Transactions on Software Engineering and Methodology 2024
