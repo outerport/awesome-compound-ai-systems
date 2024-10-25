@@ -34,6 +34,11 @@ MLSys 2024
 Chaofan Lin, Zhenhua Han, Chengruidong Zhang, Yuqing Yang, Fan Yang, Chen Chen, Lili Qiu\
 OSDI 2024
 
+[Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution](https://openreview.net/forum?id=A0VvDN4arV)\
+ICLR 2025 (in review)
+
+
+
 ### Scheduling and Orchestration
 
 [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://bingyangwu.github.io/publication/dlora/)\
@@ -55,6 +60,12 @@ MLSys 2024
 [SLoRA: Scalable Serving of Thousands of LoRA Adapters](https://proceedings.mlsys.org/paper_files/paper/2024/hash/906419cd502575b617cc489a1a696a67-Abstract-Conference.html)\
 Ying Sheng, Shiyi Cao, Dacheng Li, Coleman Hooper, Nicholas Lee, Shuo Yang, Christopher Chou, Banghua Zhu, Lianmin Zheng, Kurt Keutzer, Joseph Gonzalez, Ion Stoica\
 MLSys 2024
+
+[Preble: Efficient Distributed Prompt Scheduling for LLM Serving](https://openreview.net/forum?id=meKEKDhdnx)\
+ICLR 2025 (in review)
+
+[TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](https://openreview.net/forum?id=0cadcLKbt7)\
+ICLR 2025 (in review)
 
 ### Caching
 
@@ -120,6 +131,11 @@ arXiv 2024
 Bokai Lin, Zihao Zeng, Zipeng Xiao, Siqi Kou, Tianqi Hou, Xiaofeng Gao, Hao Zhang, Zhijie Deng\
 arXiv 2024
 
+[Compress then Serve: Serving Thousands of LoRA Adapters with Little Overhead](https://openreview.net/forum?id=hHNVn4hFPk)\
+ICLR 2025 (in review)
+
+[Interfering with Interference: Blind Shuffling and Superposition for Better Multi-Model Compression](https://openreview.net/forum?id=4wuvmJRAU4)\
+ICLR 2025 (in review)
 
 ## Case Studies
 
@@ -142,6 +158,9 @@ arXiv 2024
 [GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](https://arxiv.org/abs/2410.18032)\
 Xin Li, Qizhi Chu, Yubin Chen, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang\
 arXiv 2024
+
+[Improving Planning with Large Language Models: A Modular Agentic Architecture](https://openreview.net/forum?id=iNcEChuYXD)\
+ICLR 2025 (in submission)
 
 ## Surveys
 
