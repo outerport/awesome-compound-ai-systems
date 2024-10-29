@@ -171,3 +171,8 @@ arXiv 2024
 [LLM Inference Serving: Survey of Recent Advances and Opportunities](https://arxiv.org/abs/2407.12391)\
 Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari\
 arXiv 2024
+
+[On-Device LLMs for SMEs: Challenges and Opportunities](https://arxiv.org/abs/2410.16070)\
+Jeremy Stephen Gabriel Yee, Pai Chet Ng, Zhengkui Wang, Ian McLoughlin, Aik Beng Ng, Simon See\
+arXiv 2024
+
