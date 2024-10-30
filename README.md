@@ -67,6 +67,16 @@ ICLR 2025 (in review)
 [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](https://openreview.net/forum?id=0cadcLKbt7)\
 ICLR 2025 (in review)
 
+### Offloading
+
+[DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032)\
+Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He\
+
+[FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)\
+Ying Sheng, Lianmin Zheng, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang\
+ICML 2023
+
+
 ### Caching
 
 [Do Large Language Models Need a Content Delivery Network?](https://arxiv.org/abs/2409.13761)\
