@@ -149,6 +149,12 @@ ICLR 2025 (in review)
 [Interfering with Interference: Blind Shuffling and Superposition for Better Multi-Model Compression](https://openreview.net/forum?id=4wuvmJRAU4)\
 ICLR 2025 (in review)
 
+### Communicaiton
+
+[DroidSpeak: Enhancing Cross-LLM Communication](https://arxiv.org/abs/2411.02820)\
+Yuhan Liu, Esha Choukse, Shan Lu, Junchen Jiang, Madan Musuvathi\
+arXiv 2024
+
 ## Case Studies
 
 [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)\
